@@ -57,7 +57,7 @@ public class BasePage {
         );
 
         emailField.clear();
-        emailField.sendKeys("user_new17747@gmail.com");
+        emailField.sendKeys("user_new1604@gmail.com");
 
         // Password
         WebElement passwordField = wait.until(
